@@ -1,0 +1,29 @@
+# Go module dependencies directory
+/vendor/
+
+# Compiled binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build and cache files
+*.test
+*.out
+*.a
+*.o
+*.obj
+*.cgo
+
+# Go package cache
+/pkg/
+
+# Temporary files and IDE/editor files
+*.log
+*.tmp
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.iml
